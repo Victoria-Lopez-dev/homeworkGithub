@@ -12,3 +12,10 @@ function laCajaDePandora(numero){
         return numero.toString(16);
     }   
 }
+function victoria() {
+    return{
+        nombre: "Victoria",
+        edad: 25,
+        nacionalidad: "Argentina"
+    }
+}
