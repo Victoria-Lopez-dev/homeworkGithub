@@ -8,9 +8,7 @@ function laCajaDePandora(numero){
         return numero.toString(2);
     }
     // y si es impar, convertirlo a hexadecimal y retornarlo.
-    if(numero % 2 !== 0){
         return numero.toString(16);
-    }   
 }
 function victoria() {
     return{
