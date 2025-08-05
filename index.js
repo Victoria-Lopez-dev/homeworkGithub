@@ -10,7 +10,7 @@ return toString.numero(16);
 
 //En el mismo archivo index.js debes crear una función con tu nombre y 
 // debe retornar un objeto con tu nombre, tu edad y tu nacionalidad. (recuerda hacer commit y push).
-function Stefania () {
+function stefania () {
     return {
     nombre: "Stefania",
     edad: "24",
